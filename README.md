@@ -4,7 +4,8 @@ run company_shcema to set up databvase, followed by analysis_viewrooms to set up
 
 queries included:\
 \
-'emplyee_details' returns the employee number, last name, first name, sex, and salary of each employee.\
+#'emplyee_details' 
+returns the employee number, last name, first name, sex, and salary of each employee.\ -->
 'hires_from_1986' returns the first name, last name, and hire date for the employees who were hired in 1986.\
 'manager_details' returns the manager of each department along with their department number, department name, employee number, last name, and first name.\
 'department_by_employee' returns the department number for each employee along with that employee’s employee number, last name, first name, and department name.\
