@@ -1,6 +1,6 @@
 # sql-challenge
 
-run company_shcema to set up databvase, followed by analysis_viewrooms to set up queries\
+run company_shcema to set up databvase, followed by analysis_viewrooms to set up queries
 
 queries included:\
 \
