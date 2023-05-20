@@ -1,6 +1,6 @@
 # sql-challenge
 
-run company_shcema to set up databvase, followed by analysis_viewrooms to set up queries\\
+run company_shcema to set up databvase, followed by analysis_viewrooms to set up queries\
 
 queries included:\
 \
@@ -11,6 +11,6 @@ queries included:\
 'hercules_B' returns first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.\
 'sales_team' returns each employee in the Sales department, including their employee number, last name, and first name.\
 'sales_development_teams' returns each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.\
-'last_name_counts' returns the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).\
+'last_name_counts' returns the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
 troubleshooting was done through postgres documentation, google, stack overflow, chatgpt, and some tinkering.
